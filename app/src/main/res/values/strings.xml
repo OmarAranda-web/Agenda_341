@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Agenda_341</string>
+    <string name="bienvenido">.: BIENVENIDO :.</string>
+    <string name="buscar_actualizar">-BUSCAR-ACTUALIZAR-</string>
+    <string name="lista_de_contactos">-LISTA DE CONTACTOS-</string>
+    <string name="agregar_contacto">-Agregar Contacto-</string>
+    <string name="salir">--Salir--</string>
+    <string name="agregar_contacto1">.:AGREGAR CONTACTO:.</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Telefono</string>
+    <string name="correo">Correo</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="guardar">Guardar</string>
+    <string name="regresar">Regresar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="lista_de_contactos1">.:LISTA DE CONTACTOS:.</string>
+    <string name="buscar">.:Buscar:.</string>
+    <string name="id_usuario">Id.Usuario:</string>
+    <string name="buscar1">BUSCAR</string>
+    <string name="nombre1">Nombre</string>
+    <string name="telefono1">Telefono</string>
+    <string name="correo1">Correo</string>
+    <string name="domicilio1">Domicilio</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="cancelar1">Cancelar</string>
+    <string name="regresar1">Regresar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="mi_agenda">.:MI AGENDA:.</string>
+    <string name="todo">TODO</string>
+</resources>
